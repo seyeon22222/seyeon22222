@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyeon22222)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyeon22222&layout=compact)
 [![Seyeon's github stats](https://github-readme-stats.vercel.app/api?username=seyeon22222)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkksy09)](https://solved.ac/kkksy09)
